@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body
+{
+    background-color: rgb(231, 225, 225);
+}
+
+.main
+{
+    background-color: rgb(248, 241, 241);
+    width: 600px;
+    height: 700px;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 30px;
+        
+}
+
+.main-head {
+    display: flex;
+    justify-content: start;
+}
+
+.new_req {
+    margin-left: 50px;
+    font-size: 22px;
+    color: #10444e;
+}
+
+.main-2 {
+    padding-top: 25px;
+    margin-left: 380px;
+    font-size: 22px;
+}
+
+.line {
+    margin-left: 48px;
+}
+
+.request {
+    margin-top: 10px;
+}
+
+.type {
+    font-size: 18px;
+    margin-left: 50px;
+}
+
+span {
+    color: red;
+}
+
+.pto {
+    font-size: 15px;
+    width: 210px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgb(226, 226, 226);
+    outline: none;
+    border: none;
+}
+
+.box {
+    margin-left: 10px;
+    width: 255px;
+    height: 32px;
+}
+
+.option {
+    display: flex;
+}
+
+.option-2 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    background-image: linear-gradient(to right, rgb(39, 131, 126),rgb(49, 179, 49) , brown);
+    width: 300px;
+    height: 60px;
+    color: white; 
+    padding:10px auto;
+    position: absolute;
+    top: 160px;
+}
+
+.icon {
+    color: green;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.date {
+    display: flex;
+    padding-top: 20px;
+}
+
+.type-1, .type-2 {
+    font-size: 18px;
+}
+
+.start-date {
+    margin-left: 50px;
+}
+
+.start-1 {
+    padding: 5px;
+    width: 200px;
+    height: 25px;
+    outline: none;
+    border: none;
+    background-color: rgb(226, 226, 226);
+}
+
+.half-day {
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.end-date {
+    margin-left: 9px;
+}
+
+.end-1 {
+    padding: 5px;
+    width: 200px;
+    height: 25px;
+    outline: none;
+    border: none;
+    background-color: rgb(226, 226, 226);
+}
+
+.area {
+    margin-left: 50px;
+    padding: 10px;
+    background-color: rgb(226, 226, 226);
+    outline: none;
+    border: none;
+}
+
+::placeholder{
+    font-size: 14px;
+}
+
+.leave {
+    display: flex;
+}
+
+.leave-1 {
+    margin-left: 460px;
+    font-size: 18px;
+}
+
+.leave-2 {
+    font-size: 24px;
+    margin-left: 10px;
+    color: rgb(43, 148, 143);
+    padding-top: 5px;
+}
+
+.line-1 {
+    margin-left: 48px;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile-pic {
+    margin-left: 48px;
+    font-size: 62px;
+}
+
+.profile-name {
+    padding-top: 55px;
+    margin-left: 15px;
+    font-size: 18px;
+}
+
+.vend {
+    font-weight: bold;
+    color: black;
+}  
+
+.desig {
+    font-weight: 200;
+    color: rgba(29, 26, 26, 0.623);
+}
+
+button {
+    margin-top: 60px;
+    margin-left: 185px;
+    padding: 10px;
+    background-color: #10444e;
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+
